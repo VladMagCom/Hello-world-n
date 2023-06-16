@@ -7,7 +7,7 @@
 1. Склонируйте репозиторий на локальную машину:
 
    ```bash
-   git clone https://github.com/your-username/hello-world.git
+   git clone https://github.com/VladMagCom/Hello-world-n.git
 2. Перейдите в директорию проекта и соберите проект с помощью CMake:
 
    ```bash
@@ -19,6 +19,6 @@
 3. Запуск
 
    ```bash
-    ./hello-world
+    ./PrintHello  
 
 
