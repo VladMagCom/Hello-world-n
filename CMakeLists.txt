@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.12)
-project(YourProjectName)
+project(PrintHello)
 
 # Установка стандарта языка C++
 set(CMAKE_CXX_STANDARD 11)
@@ -7,7 +7,7 @@ set(CMAKE_CXX_STANDARD 11)
 # Добавление исходных файлов
 set(SOURCES
     main.cpp
-    print.hpp
+    print.cpp
 )
 
 # Добавление заголовочного файла

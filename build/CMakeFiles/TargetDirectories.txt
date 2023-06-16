@@ -1,0 +1,3 @@
+/Users/wlad/Desktop/материалы/prog/github/HelloWorld/build/CMakeFiles/PrintHello.dir
+/Users/wlad/Desktop/материалы/prog/github/HelloWorld/build/CMakeFiles/edit_cache.dir
+/Users/wlad/Desktop/материалы/prog/github/HelloWorld/build/CMakeFiles/rebuild_cache.dir
